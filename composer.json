@@ -3,7 +3,7 @@
 	"repositories":[
 		{
 			"type":"vcs",
-			"url": "https://github.com/zngPrivate/zng_addons_wechat.git"
+			"url": "https://github.com/zngue/zng_addons_wechat.git"
 		}
 			
 	],
