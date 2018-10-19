@@ -1,6 +1,5 @@
 {
 	 "name": "zng_addons/redis",
-	 "type": "composer-plugin",
 	  "autoload": {
         "psr-4": {
             "zng\\addons\\redis\\": "src"
