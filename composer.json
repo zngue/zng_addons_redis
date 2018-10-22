@@ -1,19 +1,9 @@
 {
-	 "name": "zng_addons/redis",
-	"repositories":[
-		{
-			"type":"vcs",
-			"url": "https://github.com/zngue/zng_addons_wechat.git"
-		}
-			
-	],
-	"require":{
-		"zng_addons/wechat":"*"
-	},
-	  "autoload": {
-        "psr-4": {
-            "zng\\addons\\redis\\": "src"
-        }
+	"name": "zng_addons/redis",
+	"autoload": {
+	  "psr-4": {
+	    "zng\\addons\\redis\\": "src"
+	  }
     }
 	
 }
